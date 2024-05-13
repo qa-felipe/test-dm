@@ -39,7 +39,7 @@ class Register {
 
     checkRegisterForm(){
         cy.get(el.submitModal).should('be.visible');
-        cy.get('#example-modal-sizes-title-lg').contains('Thanks for submitting the form');
+        cy.get(el.submitSuccess).contains('Thanks for submitting the form');
     }
 
     selectGender(gender){

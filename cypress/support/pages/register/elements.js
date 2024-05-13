@@ -28,5 +28,5 @@ export const ELEMENTS = {
 
     //Submit form elements
     submitModal: '.modal',
-    
+    submitSuccess: '#example-modal-sizes-title-lg'
 }

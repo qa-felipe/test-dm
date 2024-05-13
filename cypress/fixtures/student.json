@@ -3,7 +3,6 @@
     "lastName": "Da Silva",
     "phone": "4123123123",
     "gender": "female",
-    
     "hobbies": ["sports", "music"],
     "email": "patriciasilva@gmail.com",
     "dateBirth": "22 July, 1999",
