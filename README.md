@@ -21,5 +21,5 @@ Este projeto é um teste tecnico para a DM.
    git clone https://github.com/qa-felipe/test-dm.git
    ```
 2. Instale as dependências do projeto
-   2.1 cd test-dm
-   2.2 npm install
+   - 2.1 cd test-dm
+   - 2.2 npm install
