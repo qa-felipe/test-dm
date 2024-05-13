@@ -1,0 +1,16 @@
+{
+    "name": "Patricia",
+    "lastName": "Da Silva",
+    "phone": "4123123123",
+    "gender": "female",
+    
+    "hobbies": ["sports", "music"],
+    "email": "patriciasilva@gmail.com",
+    "dateBirth": "22 July, 1999",
+    "subjects": ["Maths","Arts","Civics"],
+    "pic": "cypress/fixtures/pics/patricia.jpg",
+    "currentAddress": "43 Pear St Central Islip, Nova York",
+    "state": "Uttar Pradesh",
+    "city":"Lucknow"
+
+}

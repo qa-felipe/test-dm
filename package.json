@@ -1,0 +1,21 @@
+{
+  "name": "test-dm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "v20.12.1"
+  },
+  "scripts": {
+    "cy:web": "npx cypress open",
+    "cy:headless": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.9.0",
+    "jest": "^29.7.0"
+  }
+}
