@@ -23,3 +23,8 @@ Este projeto é um teste tecnico para a DM.
 2. Instale as dependências do projeto
    - 2.1 cd test-dm
    - 2.2 npm install
+
+3. Rode o comando ```ntl```
+   (Use as setas do teclado para escolher a opção)
+   - 3.1 Selecione "cy:web" caso deseje acessar a execução via Browser
+   - 3.2 Selecione "cy:headless" caso deseje acessar a execução via Console
